@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ỨNG DỤNG MÁY CHIẾU - TECH360</title>
+  <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <body> 
+  <section>
+    <div class="container">
+      <a href="t2800a.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="img/t2800a.webp" alt=""></div>
+						<div class="contentBx">
+							<h3>Tyco T2800A<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="t7a.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2021/03/may-chieu-tyco-t7a-6.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Tyco T7A<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="t8hd.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2020/07/May-chieu-tyco-t8hd-wifi-full-hd-1080p-4-min.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Tyco T8HD+<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="m16.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2019/04/20200503_163853-min.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Tyco M16<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="d2300.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2018/11/tyco-d2300.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Tyco D2300<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="xiaomi-6.0.1.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2021/06/may-chieu-mijia-projector-youth-edition-2-full-hd-1080p.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Xiaomi Android 6.0.1<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="xiaomi-9.0.html">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2021/06/may-chieu-mijia-projector-youth-edition-2-full-hd-1080p.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Xiaomi Android 9.0<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="app/t2800a">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="https://tech360.vn/wp-content/uploads/2021/06/may-chieu-mijia-projector-youth-edition-2-full-hd-1080p.jpg" alt=""></div>
+						<div class="contentBx">
+							<h3>Xiaomi Quốc Tế<br><span>Ứng dụng cơ bản: Youtube, trình duyệt, VTVgo, FPTplay...</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+      <a href="https://onedrive.live.com/?id=CC4FB5898FEEA04D%21105&cid=CC4FB5898FEEA04D">
+				<div class="card">
+					<div class="content">
+						<div class="imgBx"><img src="img/app.webp" alt=""></div>
+						<div class="contentBx">
+							<h3>Apps Tổng Hợp<br><span>Tổng hợp những ứng dụng phổ biến hiện nay</span></h3>
+						</div>
+					</div>
+					<ul class="sci">
+						<li style="--i:1">
+								<i class="fas fa-download"></i>
+						</li>						
+					</ul>
+				</div>			
+			</a>
+    </div>
+  </section>
+</body>
+</html>
